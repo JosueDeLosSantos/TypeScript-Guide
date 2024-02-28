@@ -2,7 +2,7 @@
 
 This guide shows all the basic features of TS.
 
-to install TS run the followin command on the console:
+to install TS run the following command on the console:
 
 npm i --save-dev typescript
 
